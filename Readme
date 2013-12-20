@@ -1,0 +1,17 @@
+Sticky Notes (v0.1)
+
+Sticky Note app for the desktop.
+
+#How to install
+1) Open Chrome Settings.
+2) Under Extensions section, Click on "Load Unpacked Extensions".(Make sure Developer Mode is turned on)
+3) Navigate to the forked version of the app folder and click "Open".
+
+#How to use
+1) Use it as regular Sticky Note app.
+2) Close button to close the note.
+
+Note:- Lock, Options and New button currently disable.
+Currently app doesn't store the data when you close.
+
+#Coded by Reet Awwsum
