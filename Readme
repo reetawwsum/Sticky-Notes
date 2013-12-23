@@ -1,4 +1,4 @@
-Sticky Notes (v0.1)
+Sticky Notes (v0.2)
 
 Sticky Note app for the desktop.
 
@@ -10,8 +10,8 @@ Sticky Note app for the desktop.
 #How to use
 1) Use it as regular Sticky Note app.
 2) Close button to close the note.
+3) Enable lock to save the note for future after closing the sticky note.
 
-Note:- Lock, Options and New button currently disable.
-Currently app doesn't store the data when you close.
+Note:- Options and New button currently disable.
 
 #Coded by Reet Awwsum
