@@ -13,7 +13,7 @@
 				<td width="22px" ><img src="assets/cross.png" id="cross"></td>
 				<td class="dragRegion"></td>
 				<td width="31px">
-					<img src="assets/unlock.png" id="lock" >
+					<img src="assets/unlock.png" id="lock" ng-click="save()" >
 				</td>
 				<td width="31px">
 					<img src="assets/arrow.png" id="arrow" >
@@ -23,7 +23,7 @@
 				</td>
 			</tr>
 		</table>
-		<textarea autofocus="autofocus">
+		<textarea autofocus="autofocus" ng-model="note">
 		</textarea>		
 	</body>
 </html>
