@@ -5,8 +5,9 @@ Sticky Note app for the desktop.
 ##How to install
 1. Open Chrome Settings.
 2. Under Extensions section, Click on "Load Unpacked Extensions".
-> **NOTE:** Make sure Developer Mode is turned on.
 3. Navigate to the forked version of the app folder and click "Open".
+
+> **NOTE:** Make sure Developer Mode is turned on.
 
 ##How to use
 1. Use it as regular Sticky Note app.
